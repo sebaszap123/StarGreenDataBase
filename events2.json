@@ -1,0 +1,33 @@
+{
+    "events": [
+        {
+            "name": "Feria Ambiental En El Tecnológico De Colima",
+            "date": " Miércoles, 27 noviembre 2019",
+            "org": "Grupo Ambiental Ola Verde",
+            "image": "https://i0.wp.com/www.colimanoticias.com/wp-content/uploads/2015/05/Feria-Ambiental-Ciudadana.jpg",
+            "details": "Este jueves 28 y viernes 29 de noviembre se llevará a cabo en el Instituto Tecnológico de Colima (ITC), la tercera edición de la Feria Ambiental Ciudadana “Construcción de Ciudadanía Ambiental, en el marco de la Agenda 2030 y Desarrollo Sostenible”.",
+            "goEvent": ""
+        }
+        ,{
+            "name": "Eje2",
+            "date": " Miércoles, 27 noviembre 2019",
+            "org": "Grupo Ambiental Ola Verde",
+            "image": "https://www.tonica.la/__export/1600634330723/sites/debate/img/2020/09/20/kirito-regresarx-en-una-nueva-adaptacixn-al-anime-.jpg_423682103.jpg",
+            "details": "Este jueves 28 y viernes 29 de noviembre se llevará a cabo en el Instituto Tecnológico de Colima (ITC), la tercera edición de la Feria Ambiental Ciudadana “Construcción de Ciudadanía Ambiental, en el marco de la Agenda 2030 y Desarrollo Sostenible”."
+        }
+        ,{
+            "name": "Eje3",
+            "date": " Miércoles, 27 noviembre 2019",
+            "org": "Grupo Ambiental Ola Verde",
+            "image": "https://www.tonica.la/__export/1600634330723/sites/debate/img/2020/09/20/kirito-regresarx-en-una-nueva-adaptacixn-al-anime-.jpg_423682103.jpg",
+            "details": "Este jueves 28 y viernes 29 de noviembre se llevará a cabo en el Instituto Tecnológico de Colima (ITC), la tercera edición de la Feria Ambiental Ciudadana “Construcción de Ciudadanía Ambiental, en el marco de la Agenda 2030 y Desarrollo Sostenible”."
+        }
+        ,{
+            "name": "Eje4",
+            "date": " Miércoles, 27 noviembre 2019",
+            "org": "Grupo Ambiental Ola Verde",
+            "image": "https://www.tonica.la/__export/1600634330723/sites/debate/img/2020/09/20/kirito-regresarx-en-una-nueva-adaptacixn-al-anime-.jpg_423682103.jpg",
+            "details": "Este jueves 28 y viernes 29 de noviembre se llevará a cabo en el Instituto Tecnológico de Colima (ITC), la tercera edición de la Feria Ambiental Ciudadana “Construcción de Ciudadanía Ambiental, en el marco de la Agenda 2030 y Desarrollo Sostenible”."
+        }
+    ]
+}
