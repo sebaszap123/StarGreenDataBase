@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Guadalajara, Un Canto X la vida",
+        "location": { "longitude": -103.35002, "latitude":  20.66671},
+        "focusLocation": { "zoom": 12, "bearing": 0, "pitch": 60 },
+        "category": "Organizado por Moonlight Eventos y GALEZ MD",
+        "details": "Es una celebración de agradecimiento colectivo por la vida y todo aquello que la sustenta."
+    }
+    ,{
+        "name": "Guadalajara, Residuos Expo",
+        "location": { "longitude":  -103.39139402269981, "latitude":  20.65306753637933},
+        "focusLocation": { "zoom": 12, "bearing": 0, "pitch": 60 },
+        "category": "Residuos Expo",
+        "details": "La única exposición en México especializada en GESTIÓN DE RESIDUOS."
+    }
+    ,{
+        "name": "Feria ambiental del tecnológico de colima.",
+        "location": { "longitude":  -103.49139402269981, "latitude":  20.65306753637933},
+        "focusLocation": { "zoom": 12, "bearing": 0, "pitch": 60 },
+        "category": "Grupo Ambiental Ola Verde",
+        "details": "“Construcción de Ciudadanía Ambiental, en el marco de la Agenda 2030 y Desarrollo Sostenible”."
+    }
+    ,{
+        "name": "Feria ambiental del tecnológico de colima.",
+        "location": { "longitude":  -103.49139402269981, "latitude":  20.65306753637933},
+        "focusLocation": { "zoom": 12, "bearing": 0, "pitch": 60 },
+        "category": "Grupo Ambiental Ola Verde",
+        "details": "“Construcción de Ciudadanía Ambiental, en el marco de la Agenda 2030 y Desarrollo Sostenible”."
+    }
+]
