@@ -15,16 +15,30 @@
     }
     ,{
         "name": "Feria ambiental del tecnológico de colima.",
-        "location": { "longitude":  -103.49139402269981, "latitude":  20.65306753637933},
+        "location": { "longitude":  -103.724873, "latitude":  19.262529},
         "focusLocation": { "zoom": 12, "bearing": 0, "pitch": 60 },
-        "category": "Grupo Ambiental Ola Verde",
+        "category": "Organizado por Grupo Ambiental Ola Verde",
         "details": "“Construcción de Ciudadanía Ambiental, en el marco de la Agenda 2030 y Desarrollo Sostenible”."
     }
     ,{
-        "name": "Feria ambiental del tecnológico de colima.",
-        "location": { "longitude":  -103.49139402269981, "latitude":  20.65306753637933},
+        "name": "Sin Maíz No Hay País",
+        "location": { "longitude": -103.723601, "latitude":  19.261543},
         "focusLocation": { "zoom": 12, "bearing": 0, "pitch": 60 },
-        "category": "Grupo Ambiental Ola Verde",
-        "details": "“Construcción de Ciudadanía Ambiental, en el marco de la Agenda 2030 y Desarrollo Sostenible”."
+        "category": "Organizado por Grupo Ambiental Ola Verde",
+        "details": "El Día Nacional e Internacional del Maíz, que se conmemora este 29 de septiembre, nos recuerda que aún falta mucho camino qué recorrer para frenar la devastación ambiental y los problemas de salud que origina la agroindustria. La Campaña Nacional 'Sin Maíz No Hay País' busca celebrar la diversidad de maíces nativos, la agrobiodiversidad y la diversidad biocultural que hay en nuestro país."
+    }
+    ,{
+        "name": "Distanciados para volver a acercarnos",
+        "location": { "longitude": -89.61696, "latitude":  20.97537},
+        "focusLocation": { "zoom": 12, "bearing": 0, "pitch": 60 },
+        "category": "Organizado por 4ta. Expo Mérida Ambiental 2021",
+        "details": "Un espacio para emprendedores con giro ambiental, artesanal y local, así como para las diversas organizaciones de la sociedad civil, un evento por y para los ciudadanos."
+    }
+    ,{
+        "name": "GE HOPE",
+        "location": { "longitude": -103.709306762746,  "latitude": 19.25645700148712},
+        "focusLocation": { "zoom": 12, "bearing": 0, "pitch": 60 },
+        "category": "Organizado por PrepaTec",
+        "details": "Grupo Estudiantil (GE) ‘Hope’, que se encarga de concientizar a la sociedad al generar programas para el medio ambiente"
     }
 ]
